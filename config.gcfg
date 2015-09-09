@@ -1,0 +1,4 @@
+[IRC]
+Nickname=botname
+Host=irc.server
+Channel="#channel_to_join"
