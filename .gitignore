@@ -1,3 +1,6 @@
+# Config File
+config.gcfg
+
 # Compiled Object files, Static and Dynamic libs (Shared Objects)
 *.o
 *.a
